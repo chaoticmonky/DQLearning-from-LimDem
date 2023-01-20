@@ -1,0 +1,6 @@
+*.txt
+*.zip
+*.pptx
+*.pth
+FromScratchOurLunarLander.ipynb
+__pycache__/
