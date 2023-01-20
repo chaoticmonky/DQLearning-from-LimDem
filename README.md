@@ -14,16 +14,6 @@ This repository uses the following:
 - Jupyter
 
 
-## How to run this project
-
-After dependencies are installed, you can run any of the Jupyter notebooks. To run DQfLD or DQfD, you have to first train the soft Q learning expert.
-
-*  In a second terminal (does not require TF) :
-
-```bash
-python3 main.py
-```
-
 ## Description of experiments
 Checkout the entire report [here](https://bit.ly/deepqfld) which contains details of our experiments and our conclusions.
 
